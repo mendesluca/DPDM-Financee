@@ -34,11 +34,14 @@ $> yarn ios
 - [ ] Visualização de metas financeiras
       
 ## Protótipos de tela
+
 <a href="https://www.figma.com/file/gZYI7KNy99nHhUy7dvLjUV/Financee?type=design&node-id=0%3A1&mode=design&t=y5fopiUUfHBdoy1T-1" target="_blank">
   Protótipo de Tela
 </a>
 
 ## Modelagem do banco de dados
+
+![Modelagem do banco de dados](docs/Lógico_1.png)
 
 ## Planejamento
 | Atividade | Tempo previsto | Data limite |
