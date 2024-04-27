@@ -53,3 +53,10 @@ $> yarn ios
 | Visualização de saldo e despesa    | 1 semana      | 19/05/2024 |
 | Visualização de metas    | 1 semana     | 26/05/2024 |
 | Visualização de contas    | 1 semana     | 26/05/2024 |
+
+## Atividades
+- [x] Configuração React Native Elements
+- [x] Configuração Expo Router
+- [x] Configuração Native Wind
+- [ ] Implementação do layout da área de autenticação (Stack)
+- [ ] Implementação da interface estática de login
